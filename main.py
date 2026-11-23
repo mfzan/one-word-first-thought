@@ -3,8 +3,8 @@
 
 Writes the single entry word to /output/entry.txt for make.fun's
 "One Word, First Thought" bounty. The word is a concrete noun with a
-whole story packed inside it: a wrecked ship, lost treasure, survivors
-clinging to the shore.
+whole story packed inside it: a wrecked ship on a reef, lost treasure
+in the hold, survivors clinging to the shore — one word, one scene.
 """
 
 import os
